@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.log
+
+# Personal practice files
+practice.py
+1.py
